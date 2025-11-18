@@ -1,5 +1,5 @@
 # Project_API_hh
-[https://github.com/Sqiki56/Project_API_hh.git](https://github.com/Sqiki56/Project_API_hh/tree/main)
+solvit.space/projects/vacancies_statistics
 
 Статистика вакансий
 
